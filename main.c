@@ -3,7 +3,7 @@
 int main() {
     arvore minhaArvore;
     
-    printf("=== DEMONSTRACAO DO TAD ARVORE ===\n\n");
+    printf("Demonstracao da arvore\n\n");
     
     printf("1. Inicializando a arvore...\n");
     define(&minhaArvore);
